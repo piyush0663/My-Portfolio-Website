@@ -262,7 +262,8 @@ export const projects = [
     description:
       "Our Closed User Group (CUG) Management Portal allows users to effortlessly create CUG numbers, manage billing, activate/deactivate CUG numbers etc. Users can also enter and update CUG details seamlessly. This user-friendly platform ensures efficient and streamlined management of all your CUG needs.",
     image:
-      "https://www.shutterstock.com/shutterstock/photos/2310543447/display_1500/stock-photo-cug-closed-user-group-an-acronym-abbreviation-of-a-term-from-the-software-industry-illustration-2310543447.jpg",
+      "https://img.freepik.com/premium-vector/customer-group-privacy-icon-secure-teamwork-concept-social-group-people-sign-job-lock-icon-group-secret-customer-privacy-protection_775815-618.jpg",
+      
     tags: ["HTML", "CSS", "Javascripts", "PHP", "Firebase", "Api", "MYSQL"],
     category: "web app",
     github: "https://github.com/piyush0663/CUG-Internship-Project",
@@ -314,7 +315,7 @@ export const projects = [
     description:
       "Developed a GYM Web application.Achieve your fitness goals with our expertly crafted training schedules and personalized diet plans. Our website, built with HTML, CSS, and JavaScript, offers an intuitive and user-friendly interface to help you stay on track and reach your peak performance. Join us today and transform your lifestyle with FitLife Gym!",
     image:
-      "https://previews.123rf.com/images/kcng83/kcng832002/kcng83200200015/140677377-white-dumbbell-gym-logo-in-black-background-gym-and-workout-sign-or-sign-vector-template.jpg",
+      "https://img.freepik.com/premium-photo/kettlebell-dumbbell-dark-background-gym-time-3d-render-illustration_989822-589.jpg",
     tags: ["HTML", "CSS", "Javascripts"],
     category: "web app",
     github: "https://github.com/piyush0663/GYM-Website",
@@ -371,7 +372,7 @@ export const projects = [
     description:
       "Our Daily To-Do List Manager is designed to help you stay organized and productive. Easily create, edit, and delete tasks to manage your daily activities efficiently. This intuitive platform ensures you never miss a task and keeps your day running smoothly.",
     image:
-      "https://as1.ftcdn.net/v2/jpg/02/73/31/84/1000_F_273318409_KHwUhbDue9WXlbcSoi1hs7XJA0fCQ7Fa.jpg",
+      "https://play-lh.googleusercontent.com/xhtDE3Bv8XTlz91a1LSTnrpta1NaH8cmRW3E2r94GsFYEKIurlNfPiVM1N0DYmRUm84",
     tags: ["React"],
     category: "web app",
     github: "https://github.com/piyush0663/Todo-List",
@@ -483,7 +484,7 @@ export const projects = [
     description:
       "EasyTranslate is a user-friendly tool that allows anyone to translate text between languages effortlessly. With support for multiple languages, it provides fast and accurate translations. Ideal for travel, communication, and learning, EasyTranslate makes breaking language barriers simple.",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReACnllp61NXkMg3dCobYsIuCIgStK_Ys4LQ&s",
+      "https://i.pinimg.com/originals/20/50/2a/20502a9ad42a90867051f3836f8f59d6.jpg",
     tags: ["Python"],
     category: "Python",
     github: "https://github.com/piyush0663/Translator",
@@ -496,7 +497,7 @@ export const projects = [
     description:     
       "The Library Management System is a comprehensive solution for managing library resources efficiently. It streamlines cataloging, circulation, and inventory processes, enhancing user experience and administrative productivity. This system demonstrates proficiency in database management, user interface design, and automation.",
     image:
-      "https://w7.pngwing.com/pngs/432/302/png-transparent-learning-management-system-integrated-library-system-library-management-others-miscellaneous-text-silver-thumbnail.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRM4lShuGq_x_T7RydCJH5xrf7BkXxlDFlnw&s",
     tags: ["DSA"],
     category: "dsa",
     github: "https://github.com/piyush0663/Library-Management",
