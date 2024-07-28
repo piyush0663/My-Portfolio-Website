@@ -9,8 +9,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile professional, consistently eager to embrace new challenges. With a passion for continuous learning, I am committed to delivering high-quality results. My positive attitude and growth mindset equip me to make meaningful contributions and achieve significant outcomes in any endeavor.",
   github: "https://github.com/piyush0663",
-  resume:
-    "",
+  resume: "https://my-portfolio-website-eta-one.vercel.app/",
   linkedin: "https://www.linkedin.com/in/piyush6603",
   
   leetcode: "https://leetcode.com/u/piyushcool6603/",
